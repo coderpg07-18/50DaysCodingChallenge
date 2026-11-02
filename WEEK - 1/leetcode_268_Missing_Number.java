@@ -1,5 +1,5 @@
 
-public class 268_Missing_Number {
+public class leetcode_268_Missing_Number {
 
     public static int missingNumber(int[] nums) {
 

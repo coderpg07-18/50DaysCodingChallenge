@@ -15,7 +15,7 @@ class ListNode {
     }
 }
 
-public class 206_Reversing_linked_List {
+public class leetcode_206_Reversing_linked_List {
 
     public static ListNode reverseList(ListNode head) {
 
